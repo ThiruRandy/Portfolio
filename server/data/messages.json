@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1790589571017,
+    "name": "Thirumurugan S",
+    "email": "thirumurugan3925@gmail.com",
+    "subject": "Hello",
+    "message": "HI",
+    "timestamp": "2026-09-28T09:59:31.017Z",
+    "read": false
+  },
+  {
+    "id": 1790673062151,
+    "name": "Test User",
+    "email": "test@example.com",
+    "subject": "Test Message",
+    "message": "This is a test from the contact form.",
+    "timestamp": "2026-09-29T09:11:02.151Z",
+    "read": false
+  }
+]
